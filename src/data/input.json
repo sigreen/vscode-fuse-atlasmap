@@ -1,0 +1,27 @@
+{
+    "order": {
+      "address": {
+        "street": "ABCDEFGHIJKLMN",
+        "city": "ABCDEFGHIJKLMNOPQRS",
+        "state": "ABCDEFGHIJKLMNOPQR",
+        "zip": "ABCDEFGHIJK"
+      },
+      "contact": {
+        "firstName": "Calypso",
+        "lastName": "Green",
+        "phone": "ABCDEFGHIJKLMNOPQRSTUV"
+      },
+      "orderId": "ABCDEFGHIJKLMNO"
+    },
+    "primitives": {
+      "stringPrimitive": "ABCDEFGHIJKLMNOPQRSTUVWXY",
+      "booleanPrimitive": true,
+      "numberPrimitive": 48.5
+    },
+    "primitiveArrays": {
+      "stringArray": [],
+      "booleanArray": [],
+      "numberArray": []
+    },
+    "addressList": []
+  }

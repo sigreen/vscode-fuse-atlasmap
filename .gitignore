@@ -1,0 +1,10 @@
+RemoteSystemsTempFiles
+.recommenders
+.metadata
+.classpath
+.project
+.settings
+target
+lib
+.vscode
+.DS_Store

@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<fuse74-spring-boot>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "org.example.fis.Application",
+            "projectName": "fuse74-spring-boot",
+            "args": ""
+        }
+    ]
+}
